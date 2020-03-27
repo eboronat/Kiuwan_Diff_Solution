@@ -16,7 +16,7 @@ agent.cmd -s {WORKSPACE} -n MyApplication -a Example.propeties -as partialDelive
 
 You can find the documentation into: https://www.kiuwan.com/docs/display/K5/Kiuwan+Local+Analyzer+CLI+-+Command+Line+Interface
 
-## Output example
+## Example
 ```
 C:\Users\eboronat\Desktop\projects\MyApplication> diff.cmd
 ```
